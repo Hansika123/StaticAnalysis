@@ -1,0 +1,5 @@
+my_data<- read.csv("RsponseTimesOverTime-Nodejs.csv")
+
+head(my_data)
+tail(my_data)
+View(my_data)
